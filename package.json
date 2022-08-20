@@ -1,0 +1,14 @@
+{
+  "engines": {
+    "node": ">=8",
+    "npm": ">=5.3.x"
+  },
+  "private": true,
+  "scripts": {
+    "deploy": "g-deploy"
+  },
+  "dependencies": {
+    "@financial-times/g-deploy": "^3.0.8",
+    "dotenv": "^8.2.0"
+  }
+}

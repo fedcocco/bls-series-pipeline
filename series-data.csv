@@ -1,0 +1,26 @@
+series_id,series_name,description
+LNU01392173,labor_force_participation,White men
+LNU01392176,labor_force_participation,Black men
+LNU01392179,labor_force_participation,Asian men
+LNU01392174,labor_force_participation,White women
+LNU01392177,labor_force_participation,Black women
+LNU01392180,labor_force_participation,Asian women
+LNU01300010,labor_force_participation,Hispanic men
+LNU01300011,labor_force_participation,Hispanic women
+LNU01300001,labor_force_participation,All men
+LNU01300002,labor_force_participation,All women
+CES0000000001,employment_totals,Total non-farm
+CES2000000001,employment_totals,Construction
+CES6500000001,employment_totals,Education/health services
+CES5500000001,employment_totals,Financial activities
+CES9000000001,employment_totals,Government
+CES5000000001,employment_totals,Information
+CES7000000001,employment_totals,Leisure/hospitality
+CES3000000001,employment_totals,Manufacturing
+CES1000000001,employment_totals,Mining/logging
+CES8000000001,employment_totals,Other services
+CES6000000001,employment_totals,Professional/business services
+CES4200000001,employment_totals,Retail services
+CES4300000001,employment_totals,Transportation and warehousing
+CES4422000001,employment_totals,Utilities
+CES4142000001,employment_totals,Wholesale trade
